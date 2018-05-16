@@ -22,10 +22,12 @@ Handbook
     - [ES6 Promises](http://www.datchley.name/es6-promises/)
     - [Async Await](http://dev.im-bot.com/async-await/)
     - [กำจัด Callback Hell ด้วย Promise และ Async/Await](https://www.babelcoder.com/blog/posts/avoid-callback-hell-using-promise-async-await)
+    - [NodeJS Mongo Workshop](https://github.com/ibotdotout/node-mongo-workshop)
     - [พื้นฐาน funtional programming ใน JavaScript](https://www.babelcoder.com/blog/posts/introduction-to-functional-programming-in-javascript)
     - [Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming)
     - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
-
+    
+    
 # Testing
 
 - Resources
